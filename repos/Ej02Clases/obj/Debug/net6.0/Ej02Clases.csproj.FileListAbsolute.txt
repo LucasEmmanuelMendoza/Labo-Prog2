@@ -1,0 +1,15 @@
+C:\Users\lukit\source\repos\Ej02Clases\bin\Debug\net6.0\Ej02Clases.exe
+C:\Users\lukit\source\repos\Ej02Clases\bin\Debug\net6.0\Ej02Clases.deps.json
+C:\Users\lukit\source\repos\Ej02Clases\bin\Debug\net6.0\Ej02Clases.runtimeconfig.json
+C:\Users\lukit\source\repos\Ej02Clases\bin\Debug\net6.0\Ej02Clases.dll
+C:\Users\lukit\source\repos\Ej02Clases\bin\Debug\net6.0\Ej02Clases.pdb
+C:\Users\lukit\source\repos\Ej02Clases\obj\Debug\net6.0\Ej02Clases.csproj.AssemblyReference.cache
+C:\Users\lukit\source\repos\Ej02Clases\obj\Debug\net6.0\Ej02Clases.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lukit\source\repos\Ej02Clases\obj\Debug\net6.0\Ej02Clases.AssemblyInfoInputs.cache
+C:\Users\lukit\source\repos\Ej02Clases\obj\Debug\net6.0\Ej02Clases.AssemblyInfo.cs
+C:\Users\lukit\source\repos\Ej02Clases\obj\Debug\net6.0\Ej02Clases.csproj.CoreCompileInputs.cache
+C:\Users\lukit\source\repos\Ej02Clases\obj\Debug\net6.0\Ej02Clases.dll
+C:\Users\lukit\source\repos\Ej02Clases\obj\Debug\net6.0\refint\Ej02Clases.dll
+C:\Users\lukit\source\repos\Ej02Clases\obj\Debug\net6.0\Ej02Clases.pdb
+C:\Users\lukit\source\repos\Ej02Clases\obj\Debug\net6.0\Ej02Clases.genruntimeconfig.cache
+C:\Users\lukit\source\repos\Ej02Clases\obj\Debug\net6.0\ref\Ej02Clases.dll

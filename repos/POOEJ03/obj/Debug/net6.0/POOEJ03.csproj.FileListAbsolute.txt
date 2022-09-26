@@ -1,0 +1,15 @@
+C:\Users\lukit\source\repos\POOEJ03\bin\Debug\net6.0\POOEJ03.exe
+C:\Users\lukit\source\repos\POOEJ03\bin\Debug\net6.0\POOEJ03.deps.json
+C:\Users\lukit\source\repos\POOEJ03\bin\Debug\net6.0\POOEJ03.runtimeconfig.json
+C:\Users\lukit\source\repos\POOEJ03\bin\Debug\net6.0\POOEJ03.dll
+C:\Users\lukit\source\repos\POOEJ03\bin\Debug\net6.0\POOEJ03.pdb
+C:\Users\lukit\source\repos\POOEJ03\obj\Debug\net6.0\POOEJ03.csproj.AssemblyReference.cache
+C:\Users\lukit\source\repos\POOEJ03\obj\Debug\net6.0\POOEJ03.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lukit\source\repos\POOEJ03\obj\Debug\net6.0\POOEJ03.AssemblyInfoInputs.cache
+C:\Users\lukit\source\repos\POOEJ03\obj\Debug\net6.0\POOEJ03.AssemblyInfo.cs
+C:\Users\lukit\source\repos\POOEJ03\obj\Debug\net6.0\POOEJ03.csproj.CoreCompileInputs.cache
+C:\Users\lukit\source\repos\POOEJ03\obj\Debug\net6.0\POOEJ03.dll
+C:\Users\lukit\source\repos\POOEJ03\obj\Debug\net6.0\refint\POOEJ03.dll
+C:\Users\lukit\source\repos\POOEJ03\obj\Debug\net6.0\POOEJ03.pdb
+C:\Users\lukit\source\repos\POOEJ03\obj\Debug\net6.0\POOEJ03.genruntimeconfig.cache
+C:\Users\lukit\source\repos\POOEJ03\obj\Debug\net6.0\ref\POOEJ03.dll

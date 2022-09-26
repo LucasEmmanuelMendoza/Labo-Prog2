@@ -1,0 +1,15 @@
+C:\Users\lukit\source\repos\C01ConversorBinario\obj\Debug\net6.0\C01ConversorBinario.csproj.AssemblyReference.cache
+C:\Users\lukit\source\repos\C01ConversorBinario\obj\Debug\net6.0\C01ConversorBinario.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lukit\source\repos\C01ConversorBinario\obj\Debug\net6.0\C01ConversorBinario.AssemblyInfoInputs.cache
+C:\Users\lukit\source\repos\C01ConversorBinario\obj\Debug\net6.0\C01ConversorBinario.AssemblyInfo.cs
+C:\Users\lukit\source\repos\C01ConversorBinario\obj\Debug\net6.0\C01ConversorBinario.csproj.CoreCompileInputs.cache
+C:\Users\lukit\source\repos\C01ConversorBinario\bin\Debug\net6.0\C01ConversorBinario.exe
+C:\Users\lukit\source\repos\C01ConversorBinario\bin\Debug\net6.0\C01ConversorBinario.deps.json
+C:\Users\lukit\source\repos\C01ConversorBinario\bin\Debug\net6.0\C01ConversorBinario.runtimeconfig.json
+C:\Users\lukit\source\repos\C01ConversorBinario\bin\Debug\net6.0\C01ConversorBinario.dll
+C:\Users\lukit\source\repos\C01ConversorBinario\bin\Debug\net6.0\C01ConversorBinario.pdb
+C:\Users\lukit\source\repos\C01ConversorBinario\obj\Debug\net6.0\C01ConversorBinario.dll
+C:\Users\lukit\source\repos\C01ConversorBinario\obj\Debug\net6.0\refint\C01ConversorBinario.dll
+C:\Users\lukit\source\repos\C01ConversorBinario\obj\Debug\net6.0\C01ConversorBinario.pdb
+C:\Users\lukit\source\repos\C01ConversorBinario\obj\Debug\net6.0\C01ConversorBinario.genruntimeconfig.cache
+C:\Users\lukit\source\repos\C01ConversorBinario\obj\Debug\net6.0\ref\C01ConversorBinario.dll

@@ -1,0 +1,15 @@
+C:\Users\lukit\source\repos\I02NumLocos2Listas\bin\Debug\net6.0\I02NumLocos2Listas.exe
+C:\Users\lukit\source\repos\I02NumLocos2Listas\bin\Debug\net6.0\I02NumLocos2Listas.deps.json
+C:\Users\lukit\source\repos\I02NumLocos2Listas\bin\Debug\net6.0\I02NumLocos2Listas.runtimeconfig.json
+C:\Users\lukit\source\repos\I02NumLocos2Listas\bin\Debug\net6.0\I02NumLocos2Listas.dll
+C:\Users\lukit\source\repos\I02NumLocos2Listas\bin\Debug\net6.0\I02NumLocos2Listas.pdb
+C:\Users\lukit\source\repos\I02NumLocos2Listas\obj\Debug\net6.0\I02NumLocos2Listas.csproj.AssemblyReference.cache
+C:\Users\lukit\source\repos\I02NumLocos2Listas\obj\Debug\net6.0\I02NumLocos2Listas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lukit\source\repos\I02NumLocos2Listas\obj\Debug\net6.0\I02NumLocos2Listas.AssemblyInfoInputs.cache
+C:\Users\lukit\source\repos\I02NumLocos2Listas\obj\Debug\net6.0\I02NumLocos2Listas.AssemblyInfo.cs
+C:\Users\lukit\source\repos\I02NumLocos2Listas\obj\Debug\net6.0\I02NumLocos2Listas.csproj.CoreCompileInputs.cache
+C:\Users\lukit\source\repos\I02NumLocos2Listas\obj\Debug\net6.0\I02NumLocos2Listas.dll
+C:\Users\lukit\source\repos\I02NumLocos2Listas\obj\Debug\net6.0\refint\I02NumLocos2Listas.dll
+C:\Users\lukit\source\repos\I02NumLocos2Listas\obj\Debug\net6.0\I02NumLocos2Listas.pdb
+C:\Users\lukit\source\repos\I02NumLocos2Listas\obj\Debug\net6.0\I02NumLocos2Listas.genruntimeconfig.cache
+C:\Users\lukit\source\repos\I02NumLocos2Listas\obj\Debug\net6.0\ref\I02NumLocos2Listas.dll

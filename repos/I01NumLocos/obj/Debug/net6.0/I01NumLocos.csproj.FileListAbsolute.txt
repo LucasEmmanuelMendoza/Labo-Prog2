@@ -1,0 +1,15 @@
+C:\Users\lukit\source\repos\I01NumLocos\bin\Debug\net6.0\I01NumLocos.exe
+C:\Users\lukit\source\repos\I01NumLocos\bin\Debug\net6.0\I01NumLocos.deps.json
+C:\Users\lukit\source\repos\I01NumLocos\bin\Debug\net6.0\I01NumLocos.runtimeconfig.json
+C:\Users\lukit\source\repos\I01NumLocos\bin\Debug\net6.0\I01NumLocos.dll
+C:\Users\lukit\source\repos\I01NumLocos\bin\Debug\net6.0\I01NumLocos.pdb
+C:\Users\lukit\source\repos\I01NumLocos\obj\Debug\net6.0\I01NumLocos.csproj.AssemblyReference.cache
+C:\Users\lukit\source\repos\I01NumLocos\obj\Debug\net6.0\I01NumLocos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lukit\source\repos\I01NumLocos\obj\Debug\net6.0\I01NumLocos.AssemblyInfoInputs.cache
+C:\Users\lukit\source\repos\I01NumLocos\obj\Debug\net6.0\I01NumLocos.AssemblyInfo.cs
+C:\Users\lukit\source\repos\I01NumLocos\obj\Debug\net6.0\I01NumLocos.csproj.CoreCompileInputs.cache
+C:\Users\lukit\source\repos\I01NumLocos\obj\Debug\net6.0\I01NumLocos.dll
+C:\Users\lukit\source\repos\I01NumLocos\obj\Debug\net6.0\refint\I01NumLocos.dll
+C:\Users\lukit\source\repos\I01NumLocos\obj\Debug\net6.0\I01NumLocos.pdb
+C:\Users\lukit\source\repos\I01NumLocos\obj\Debug\net6.0\I01NumLocos.genruntimeconfig.cache
+C:\Users\lukit\source\repos\I01NumLocos\obj\Debug\net6.0\ref\I01NumLocos.dll

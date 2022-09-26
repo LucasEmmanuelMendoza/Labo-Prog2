@@ -1,0 +1,15 @@
+C:\Users\lukit\source\repos\Clase04Sobrecarga\bin\Debug\net6.0\Clase04Sobrecarga.exe
+C:\Users\lukit\source\repos\Clase04Sobrecarga\bin\Debug\net6.0\Clase04Sobrecarga.deps.json
+C:\Users\lukit\source\repos\Clase04Sobrecarga\bin\Debug\net6.0\Clase04Sobrecarga.runtimeconfig.json
+C:\Users\lukit\source\repos\Clase04Sobrecarga\bin\Debug\net6.0\Clase04Sobrecarga.dll
+C:\Users\lukit\source\repos\Clase04Sobrecarga\bin\Debug\net6.0\Clase04Sobrecarga.pdb
+C:\Users\lukit\source\repos\Clase04Sobrecarga\obj\Debug\net6.0\Clase04Sobrecarga.csproj.AssemblyReference.cache
+C:\Users\lukit\source\repos\Clase04Sobrecarga\obj\Debug\net6.0\Clase04Sobrecarga.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lukit\source\repos\Clase04Sobrecarga\obj\Debug\net6.0\Clase04Sobrecarga.AssemblyInfoInputs.cache
+C:\Users\lukit\source\repos\Clase04Sobrecarga\obj\Debug\net6.0\Clase04Sobrecarga.AssemblyInfo.cs
+C:\Users\lukit\source\repos\Clase04Sobrecarga\obj\Debug\net6.0\Clase04Sobrecarga.csproj.CoreCompileInputs.cache
+C:\Users\lukit\source\repos\Clase04Sobrecarga\obj\Debug\net6.0\Clase04Sobrecarga.dll
+C:\Users\lukit\source\repos\Clase04Sobrecarga\obj\Debug\net6.0\refint\Clase04Sobrecarga.dll
+C:\Users\lukit\source\repos\Clase04Sobrecarga\obj\Debug\net6.0\Clase04Sobrecarga.pdb
+C:\Users\lukit\source\repos\Clase04Sobrecarga\obj\Debug\net6.0\Clase04Sobrecarga.genruntimeconfig.cache
+C:\Users\lukit\source\repos\Clase04Sobrecarga\obj\Debug\net6.0\ref\Clase04Sobrecarga.dll

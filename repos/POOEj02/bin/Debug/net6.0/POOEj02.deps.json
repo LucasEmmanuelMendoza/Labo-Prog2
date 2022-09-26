@@ -1,0 +1,65 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "POOEj02/1.0.0": {
+        "dependencies": {
+          "Clase03": "1.0.0",
+          "Entidades": "1.0.0",
+          "POOEj01": "1.0.0"
+        },
+        "runtime": {
+          "POOEj02.dll": {}
+        }
+      },
+      "Clase03/1.0.0": {
+        "dependencies": {
+          "Entidades": "1.0.0"
+        },
+        "runtime": {
+          "Clase03.dll": {}
+        }
+      },
+      "Entidades/1.0.0": {
+        "runtime": {
+          "Entidades.dll": {}
+        }
+      },
+      "POOEj01/1.0.0": {
+        "dependencies": {
+          "Clase03": "1.0.0",
+          "Entidades": "1.0.0"
+        },
+        "runtime": {
+          "POOEj01.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "POOEj02/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Clase03/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Entidades/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "POOEj01/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
