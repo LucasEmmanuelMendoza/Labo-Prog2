@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\lukit\\source\\repos\\Clase06Colecciones\\Clase06Colecciones.csproj": {}
+    "C:\\Users\\lukit\\Desktop\\Labo-Prog2\\repos\\Clase06Colecciones\\Clase06Colecciones.csproj": {}
   },
   "projects": {
-    "C:\\Users\\lukit\\source\\repos\\Clase06Colecciones\\Clase06Colecciones.csproj": {
+    "C:\\Users\\lukit\\Desktop\\Labo-Prog2\\repos\\Clase06Colecciones\\Clase06Colecciones.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\lukit\\source\\repos\\Clase06Colecciones\\Clase06Colecciones.csproj",
+        "projectUniqueName": "C:\\Users\\lukit\\Desktop\\Labo-Prog2\\repos\\Clase06Colecciones\\Clase06Colecciones.csproj",
         "projectName": "Clase06Colecciones",
-        "projectPath": "C:\\Users\\lukit\\source\\repos\\Clase06Colecciones\\Clase06Colecciones.csproj",
+        "projectPath": "C:\\Users\\lukit\\Desktop\\Labo-Prog2\\repos\\Clase06Colecciones\\Clase06Colecciones.csproj",
         "packagesPath": "C:\\Users\\lukit\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\lukit\\source\\repos\\Clase06Colecciones\\obj\\",
+        "outputPath": "C:\\Users\\lukit\\Desktop\\Labo-Prog2\\repos\\Clase06Colecciones\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

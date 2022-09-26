@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\lukit\\source\\repos\\C01EstadisticaDepo\\C01EstadisticaDepo.csproj",
+      "projectUniqueName": "C:\\Users\\lukit\\Desktop\\Labo-Prog2\\repos\\C01EstadisticaDepo\\C01EstadisticaDepo.csproj",
       "projectName": "C01EstadisticaDepo",
-      "projectPath": "C:\\Users\\lukit\\source\\repos\\C01EstadisticaDepo\\C01EstadisticaDepo.csproj",
+      "projectPath": "C:\\Users\\lukit\\Desktop\\Labo-Prog2\\repos\\C01EstadisticaDepo\\C01EstadisticaDepo.csproj",
       "packagesPath": "C:\\Users\\lukit\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\lukit\\source\\repos\\C01EstadisticaDepo\\obj\\",
+      "outputPath": "C:\\Users\\lukit\\Desktop\\Labo-Prog2\\repos\\C01EstadisticaDepo\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
