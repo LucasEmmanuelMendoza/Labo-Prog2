@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\lukit\\source\\repos\\Clase05WinForm\\Clase05WinForm.csproj": {}
+    "C:\\Users\\lukit\\Desktop\\Labo-Prog2\\repos\\Clase05WinForm\\Clase05WinForm.csproj": {}
   },
   "projects": {
-    "C:\\Users\\lukit\\source\\repos\\Clase05WinForm\\Clase05WinForm.csproj": {
+    "C:\\Users\\lukit\\Desktop\\Labo-Prog2\\repos\\Clase05WinForm\\Clase05WinForm.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\lukit\\source\\repos\\Clase05WinForm\\Clase05WinForm.csproj",
+        "projectUniqueName": "C:\\Users\\lukit\\Desktop\\Labo-Prog2\\repos\\Clase05WinForm\\Clase05WinForm.csproj",
         "projectName": "Clase05WinForm",
-        "projectPath": "C:\\Users\\lukit\\source\\repos\\Clase05WinForm\\Clase05WinForm.csproj",
+        "projectPath": "C:\\Users\\lukit\\Desktop\\Labo-Prog2\\repos\\Clase05WinForm\\Clase05WinForm.csproj",
         "packagesPath": "C:\\Users\\lukit\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\lukit\\source\\repos\\Clase05WinForm\\obj\\",
+        "outputPath": "C:\\Users\\lukit\\Desktop\\Labo-Prog2\\repos\\Clase05WinForm\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

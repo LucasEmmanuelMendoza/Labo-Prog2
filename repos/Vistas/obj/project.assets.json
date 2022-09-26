@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\lukit\\source\\repos\\Vistas\\Vistas.csproj",
+      "projectUniqueName": "C:\\Users\\lukit\\Desktop\\Labo-Prog2\\repos\\Vistas\\Vistas.csproj",
       "projectName": "Vistas",
-      "projectPath": "C:\\Users\\lukit\\source\\repos\\Vistas\\Vistas.csproj",
+      "projectPath": "C:\\Users\\lukit\\Desktop\\Labo-Prog2\\repos\\Vistas\\Vistas.csproj",
       "packagesPath": "C:\\Users\\lukit\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\lukit\\source\\repos\\Vistas\\obj\\",
+      "outputPath": "C:\\Users\\lukit\\Desktop\\Labo-Prog2\\repos\\Vistas\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
