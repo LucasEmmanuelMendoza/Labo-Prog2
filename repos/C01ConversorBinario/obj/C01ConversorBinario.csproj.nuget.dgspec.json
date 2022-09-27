@@ -1,24 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\lukit\\source\\repos\\C01ConversorBinario\\C01ConversorBinario.csproj": {}
+    "C:\\Users\\lukit\\source\\repos\\Labo-Prog2\\repos\\C01ConversorBinario\\C01ConversorBinario.csproj": {}
   },
   "projects": {
-    "C:\\Users\\lukit\\source\\repos\\C01ConversorBinario\\C01ConversorBinario.csproj": {
+    "C:\\Users\\lukit\\source\\repos\\Labo-Prog2\\repos\\C01ConversorBinario\\C01ConversorBinario.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\lukit\\source\\repos\\C01ConversorBinario\\C01ConversorBinario.csproj",
+        "projectUniqueName": "C:\\Users\\lukit\\source\\repos\\Labo-Prog2\\repos\\C01ConversorBinario\\C01ConversorBinario.csproj",
         "projectName": "C01ConversorBinario",
-        "projectPath": "C:\\Users\\lukit\\source\\repos\\C01ConversorBinario\\C01ConversorBinario.csproj",
+        "projectPath": "C:\\Users\\lukit\\source\\repos\\Labo-Prog2\\repos\\C01ConversorBinario\\C01ConversorBinario.csproj",
         "packagesPath": "C:\\Users\\lukit\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\lukit\\source\\repos\\C01ConversorBinario\\obj\\",
+        "outputPath": "C:\\Users\\lukit\\source\\repos\\Labo-Prog2\\repos\\C01ConversorBinario\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-        ],
         "configFilePaths": [
           "C:\\Users\\lukit\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -59,7 +55,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.400\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.401\\RuntimeIdentifierGraph.json"
         }
       }
     }

@@ -1,0 +1,15 @@
+C:\Users\lukit\Source\Repos\Labo-Prog2\repos\I01PuestoDeAtencion\bin\Debug\net6.0\I01PuestoDeAtencion.exe
+C:\Users\lukit\Source\Repos\Labo-Prog2\repos\I01PuestoDeAtencion\bin\Debug\net6.0\I01PuestoDeAtencion.deps.json
+C:\Users\lukit\Source\Repos\Labo-Prog2\repos\I01PuestoDeAtencion\bin\Debug\net6.0\I01PuestoDeAtencion.runtimeconfig.json
+C:\Users\lukit\Source\Repos\Labo-Prog2\repos\I01PuestoDeAtencion\bin\Debug\net6.0\I01PuestoDeAtencion.dll
+C:\Users\lukit\Source\Repos\Labo-Prog2\repos\I01PuestoDeAtencion\bin\Debug\net6.0\I01PuestoDeAtencion.pdb
+C:\Users\lukit\Source\Repos\Labo-Prog2\repos\I01PuestoDeAtencion\obj\Debug\net6.0\I01PuestoDeAtencion.csproj.AssemblyReference.cache
+C:\Users\lukit\Source\Repos\Labo-Prog2\repos\I01PuestoDeAtencion\obj\Debug\net6.0\I01PuestoDeAtencion.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lukit\Source\Repos\Labo-Prog2\repos\I01PuestoDeAtencion\obj\Debug\net6.0\I01PuestoDeAtencion.AssemblyInfoInputs.cache
+C:\Users\lukit\Source\Repos\Labo-Prog2\repos\I01PuestoDeAtencion\obj\Debug\net6.0\I01PuestoDeAtencion.AssemblyInfo.cs
+C:\Users\lukit\Source\Repos\Labo-Prog2\repos\I01PuestoDeAtencion\obj\Debug\net6.0\I01PuestoDeAtencion.csproj.CoreCompileInputs.cache
+C:\Users\lukit\Source\Repos\Labo-Prog2\repos\I01PuestoDeAtencion\obj\Debug\net6.0\I01PuestoDeAtencion.dll
+C:\Users\lukit\Source\Repos\Labo-Prog2\repos\I01PuestoDeAtencion\obj\Debug\net6.0\refint\I01PuestoDeAtencion.dll
+C:\Users\lukit\Source\Repos\Labo-Prog2\repos\I01PuestoDeAtencion\obj\Debug\net6.0\I01PuestoDeAtencion.pdb
+C:\Users\lukit\Source\Repos\Labo-Prog2\repos\I01PuestoDeAtencion\obj\Debug\net6.0\I01PuestoDeAtencion.genruntimeconfig.cache
+C:\Users\lukit\Source\Repos\Labo-Prog2\repos\I01PuestoDeAtencion\obj\Debug\net6.0\ref\I01PuestoDeAtencion.dll
